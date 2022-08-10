@@ -7,7 +7,7 @@ class ConselhoController {
 
             response.status(200).json({
                 "id": res.data.slip.id,
-                "coselho": res.data.slip.advice 
+                "conselho": res.data.slip.advice 
             })
         }).catch(error => response.status(404).json({'erro': `Erro: API deu problema\n${error}`}))
     }

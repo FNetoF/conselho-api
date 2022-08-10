@@ -62,37 +62,7 @@ Você deve ter algumas dependências para executar o programa:
     ```shell
     HTTPS -> $ git clone https://github.com/FNetoF/conselho-api.git
     ```
-2. Entrar na pasta do projeto:
-    ```shell
-    $ cd conselho-api
-    ```
-3. Instale às dependências:
-    ```shell
-    $ npm install
-    ```
-    | |
-
-    ```shell
-    $ yarn install
-    ```
-
-<br>
-
-## Executando o projeto
-1. Executar o projeto:
-    ```shell
-    $ npm run dev
-    ```
-
-    | |
-
-    ```shell
-    $ yarn dev
-    ```
-2. Acessar o localhost:
-    ```http
-    http://localhost:9090/coselho
-    ```
+2. Entrar na pasta de front end e de bank End
 ## Autor
 
 | [<img src="https://user-images.githubusercontent.com/60360540/147608621-232512b1-363f-4812-8f69-95c189e1cbc7.jpg" width=115><br><sub>@felipe-fe</sub>](https://www.linkedin.com/in/felipe-fe/) |

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+.container {
+    width: 1080px;
+    margin: 50px auto;
+    background: #191759;
+    padding: 20px;
+    margin-top: 150px;
+}
+
+.titulo {
+    font-family: 'Roboto', cursive;
+    font-size: 69px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.frase {
+    font-family: 'Kalam', cursive;
+    font-size: 69px;
+    color: #ffffff;
+    padding-left: 100px;
+}

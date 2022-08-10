@@ -15,6 +15,18 @@
 
 <br/>
 
+## Front-End
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <hr>
+    <h3>Biblioteca</h3>
+    <ul type="square">
+        <li><a href="https://www.npmjs.com/package/axios">axios</a></li>
+    </ul>
+</div><br/>
+
 ## Back-End
 
 <div style="display: inline_block"><br/>
@@ -27,7 +39,7 @@
         <li><a href="https://www.npmjs.com/package/axios">axios</a></li>
         <li><a href="https://expressjs.com/pt-br/">express</a></li>
         <li><a href="https://www.npmjs.com/package/nodemon">nodemon</a></li>
-        </ul>
+    </ul>
 </div><br/>
 
 ## Plataforma

@@ -3,6 +3,6 @@ const conselhoController = require('./app/controller/ConselhoController')
 
 const router = Router()
 
-router.get('/coselho', conselhoController.get)
+router.get('/conselho', conselhoController.get)
 
 module.exports = router
